@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Deftones69!",
+    "database": "tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Deftones69!",
+    "database": "tour_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Deftones69!",
+    "database": "tour_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
